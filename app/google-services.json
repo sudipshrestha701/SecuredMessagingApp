@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152704636989",
+    "firebase_url": "https://chat-4ce1d-default-rtdb.firebaseio.com",
+    "project_id": "chat-4ce1d",
+    "storage_bucket": "chat-4ce1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152704636989:android:bdf710b03f57458492f254",
+        "android_client_info": {
+          "package_name": "com.example.securedmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152704636989-r00269g5oteh4eqiuerp33lp0idhrq74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkX9rmZoYkGKZ0jZtMFFXqkiHbgZfSm6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152704636989-r00269g5oteh4eqiuerp33lp0idhrq74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
